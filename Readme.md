@@ -1,6 +1,7 @@
 # **Natural Language Processing (NLP)**
 
-## **Content**
+# **Content**
+some of my research on natural language processing, I'm so proud if there is someone who wants to help develop my research, add me as a reference
 
 ### **Websites Prediction**
 #### [Django Websites Prediction For NER dan RE](https://github.com/Dimas263/Django-Websites_NER_RE)

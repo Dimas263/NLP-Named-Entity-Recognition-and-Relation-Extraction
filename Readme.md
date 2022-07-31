@@ -1,7 +1,7 @@
 # <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-big-data-smart-technology-flaticons-lineal-color-flat-icons-2.png"/> **Natural Language Processing (NLP)**
 
 # **Content**
-some of my research on natural language processing, I'm so proud if there is someone who wants to help develop my research, add me as a reference
+### some of my research on natural language processing and information extraction,
 
 ### <img src="https://img.icons8.com/fluency/48/000000/internet.png"/> **Websites Prediction**
 #### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [Django Websites Prediction For NER dan RE](https://github.com/Dimas263/Django-Websites_NER_RE)

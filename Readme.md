@@ -16,7 +16,7 @@
 #### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [NLP_NER_BERT_BILSTM_CRF_Named_Entity_Recognition](https://github.com/Dimas263/NLP_NER_BERT_BILSTM_CRF_Named_Entity_Recognition)
 
 
-### <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> **Relation Extraction (NER)**
+### <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> **Relation Extraction (RE)**
 #### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [NLP_RE_Dataset_Biomedical_Plant-Disease_Corpus](https://github.com/Dimas263/NLP_RE_Dataset_Biomedical_Plant-Disease_Corpus)
 #### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [NLP_RE_BERT_Relation_Extraction_Biomedical](https://github.com/Dimas263/NLP_RE_BERT_Relation_Extraction_Biomedical)
 #### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [NLP_RE_BILSTM_CRF_Relation_Extraction_Biomedical](https://github.com/Dimas263/NLP_RE_BILSTM_CRF_Relation_Extraction_Biomedical)

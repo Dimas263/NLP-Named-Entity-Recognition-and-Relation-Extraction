@@ -24,5 +24,5 @@
 
 ### <img src="https://img.icons8.com/office/48/000000/data-configuration.png"/> **Dataset**
 #### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [**National Center for Biotechnology Information (NCBI)**](https://www.ncbi.nlm.nih.gov/)
-#### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [**NCBI Dataset External Data Testing For NER and RE**](https://github.com/Dimas263/ncbi_testing_dataset/blob/main/README.md)
+#### <img src="https://img.icons8.com/fluency-systems-filled/24/000000/chevron-right--v2.png"/> [**NCBI Dataset External Data Testing For NER and RE**](https://github.com/Dimas263/Django-Websites_NER_RE/blob/master/Data%20kalimat.xlsx)
 
